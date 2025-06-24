@@ -32,4 +32,7 @@ function showFirstAndLast(arr) {
 const newArr = showFirstAndLast(arr)
 console.log(newArr)
 
-//-----------exe4----------------------
+//-----------exe4-------------
+//-----------exe5-------------
+//-----------exe6-------------
+//-----------exe7-------------
